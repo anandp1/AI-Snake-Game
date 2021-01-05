@@ -9,3 +9,4 @@ This project is an AI that learns to play a snake game. I implemented this using
 * Math
 * Numpy
 # Example
+<img src="Images/Snake_Game.PNG" width = "300">
