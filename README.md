@@ -1,5 +1,5 @@
 # AI-Snake-Game
-This project is an AI that learns to play a snake game. I implemented this using a module "NEAT" in python, an evolutionary algorithm.
+This project is an AI that learns to play a snake game. I implemented this using a module "NEAT" in python, an evolutionary algorithm. Still a work in progress to improve the AI.
 # Requirements
 * Python 3.6 or below
 * Pygame
